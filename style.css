@@ -171,3 +171,33 @@ a:visited{
 #microphoneimg{
     max-height:100%;
 }
+footer{
+    bottom: 0;
+    font-size: 10pt;
+    height: 40px;
+    position: fixed;
+    z-index: 104;
+    width: 100%;
+    background: #f2f2f2;
+    line-height: 40px;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+    color: #5f6368;
+    font-size:14px;
+    font-family: ariel, sans-serif;
+
+}
+#footright{
+    float:right;
+    font-family: arial,sans-serif;
+    align-items: baseline;
+    margin-right: 30px;
+}
+#footleft{
+    float:left;
+    font-family: arial,sans-serif;
+}
+.footlinks{
+    padding-left: 27px;
+    color: #5f6368;
+}
