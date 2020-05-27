@@ -3,16 +3,16 @@ p{
 }
 body{
     background-color: white;
-    color: black;
+    color: #3a3c3f;
 }
 a{
     text-decoration: none;
-    color: black;
+    color: #3a3c3f;
     }
 
 a:visited{
     text-decoration: none;
-    color: black;
+    color: #3a3c3f;
 }
 .buttons{
     background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
@@ -60,7 +60,7 @@ a:visited{
     padding-left: 15px;
     font-family: Arial, sans-serif;
     font-size: 13px;
-    text-decoration-color: black;
+    text-decoration-color: #3a3c3f;
     text-decoration-line: none;
     text-decoration-style: solid;
 }
@@ -74,7 +74,7 @@ a:visited{
 #gmail{
     font-family: Arial, sans-serif;
     font-size: 13px;
-    text-decoration-color: black;
+    text-decoration-color:#3a3c3f;
     text-decoration-line: none;
     text-decoration-style: solid;
 }
@@ -82,7 +82,7 @@ a:visited{
     padding-left: 15px;
     font-family: Arial, sans-serif;
     font-size: 13px;
-    text-decoration-color: black;
+    text-decoration-color:#3a3c3f;
     text-decoration-line: none;
     text-decoration-style: solid;
 }
